@@ -1,3 +1,8 @@
 .person {
   box-sizing: border-box;
+
+  &__image {
+    width: 100%;
+    border-radius: 50%;
+  }
 }
